@@ -1,0 +1,32 @@
+main{
+    padding: 30px;
+}
+
+.field{
+    padding: 30px 50px;
+}
+
+.top{
+    display: flex;
+    justify-content: space-between;
+}
+
+.gambar{
+    display: flex;
+}
+
+.youtube{
+    width: 100px;
+
+}
+
+.kotak img{
+    width: 90px;
+    height: 60px;
+
+}
+
+.bottom{
+    display: flex;
+    justify-content: space-between;
+}
